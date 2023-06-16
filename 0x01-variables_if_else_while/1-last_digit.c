@@ -4,7 +4,7 @@
  */
 #include <stdlib.h>
 #include <time.h>
-#include <studio.h>
+#include <stdio.h>
 /*
  *main-Last digit of a random number greater than 5
  *equal 0
