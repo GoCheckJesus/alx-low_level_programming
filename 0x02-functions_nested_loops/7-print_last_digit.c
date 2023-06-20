@@ -7,7 +7,8 @@
  */
 int print_last_digit(int n)
 {
-	int a
+	int a;
+	scanf(%d, &a);
 	n = a % 10;
 	return (n);
 }
