@@ -17,7 +17,7 @@ void print_rev(char *s)
 		longevity++;
 		s++;
 	}
-	s--
+	s--;
 	for (o = longevity; o > 0; o--)
 	{
 		_putchar(*s);
